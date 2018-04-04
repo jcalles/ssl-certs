@@ -1,2 +1,5 @@
 # ssl-certs
-Gen SSL Certs
+Gen Auto Sign SSL Certs
+
+## How to Use
+./SCRIPTNAME DOMAIN
